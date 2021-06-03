@@ -1,0 +1,15 @@
+[
+  {
+    "id": "ms-python/python/latest",
+    "description": "Linting, Debugging (multi-threaded, remote), Intellisense, Jupyter Notebooks, code formatting, refactoring, unit tests, snippets, and more.",
+    "displayName": "Python",
+    "links": {
+      "self": "https://raw.githubusercontent.com/Schnittchenkraus/che-plugin-registry/master/v3/plugins/ms-python/python/2020.7.94776/meta.yaml",
+      "plugin": "/v3/plugins/ms-python/python/latest/che-theia-plugin.yaml"
+    },
+    "name": "python",
+    "publisher": "ms-python",
+    "type": "VS Code extension",
+    "version": "latest"
+  }
+]
